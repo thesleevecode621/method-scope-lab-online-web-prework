@@ -1,5 +1,5 @@
- var hold =" Mario!"
-def catch_phrase(hold)
+ 
+def catch_phrase(phrase)
   puts phrase = "It's-a me,$ {hold}"
   return phrase
 
