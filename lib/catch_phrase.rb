@@ -1,4 +1,4 @@
- var hold="It's-a me, Mario!"
+ var hold=" Mario!"
 def catch_phrase(hold)
   puts  "${hold}"
 
